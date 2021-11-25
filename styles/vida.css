@@ -1,0 +1,27 @@
+/* comienzo centrando la calculadora*/
+
+table{
+    margin: auto; 
+    padding: 10px;
+    border: rgb(218, 28, 218) ridge;
+    background-color: #463791;
+    border-radius: 5px;
+    /*alto height: 20px; y ancho width */
+
+}
+
+
+.numero, .operacion, .vacio {
+
+    width: 70px;
+   
+
+}
+
+.display {
+
+    background-color: rgb(255, 255, 255); 
+    border-radius: 10px;
+    color: rgb(0, 0, 0); 
+
+    }
