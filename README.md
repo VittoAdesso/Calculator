@@ -2,12 +2,13 @@
 Making a calculator
 
 ## Used
-Html5 & Css3 & Js
+Html5 & Css3/ Sass & Js
 
 ---
 
-Simple preview's
+# Simple preview's
 
-
+<img src="./assets/initialState.png" with=100>
+<img src="./assets/8x8.png" with=100>
 
 
